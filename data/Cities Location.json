@@ -1,0 +1,97 @@
+[
+  {
+    "City": "Ahmedabad\n(Gujarat)",
+    "Latitude (N)": 23.0225,
+    "Longitude (E)": 72.5714
+  },
+  {
+    "City": "Bengaluru\n(Karnataka)",
+    "Latitude (N)": 12.9716,
+    "Longitude (E)": 77.5946
+  },
+  {
+    "City": "Chennai\n(Tamil Nadu)",
+    "Latitude (N)": 13.0827,
+    "Longitude (E)": 80.2707
+  },
+  {
+    "City": "Coimbatore\n(Tamil Nadu)",
+    "Latitude (N)": 11.0168,
+    "Longitude (E)": 76.9558
+  },
+  {
+    "City": "Delhi",
+    "Latitude (N)": 28.7041,
+    "Longitude (E)": 77.1025
+  },
+  {
+    "City": "Ghaziabad\n(Uttar Pradesh)",
+    "Latitude (N)": 28.6692,
+    "Longitude (E)": 77.4538
+  },
+  {
+    "City": "Hyderabad\n(Telangana)",
+    "Latitude (N)": 17.385,
+    "Longitude (E)": 78.4867
+  },
+  {
+    "City": "Indore\n(Madhya Pradesh)",
+    "Latitude (N)": 22.7196,
+    "Longitude (E)": 75.8577
+  },
+  {
+    "City": "Jaipur\n(Rajasthan)",
+    "Latitude (N)": 26.9124,
+    "Longitude (E)": 75.7873
+  },
+  {
+    "City": "Kanpur\n(Uttar Pradesh)",
+    "Latitude (N)": 26.4499,
+    "Longitude (E)": 80.3319
+  },
+  {
+    "City": "Kochi\n(Kerala)",
+    "Latitude (N)": 9.9312,
+    "Longitude (E)": 76.2673
+  },
+  {
+    "City": "Kolkata\n(West Bengal)",
+    "Latitude (N)": 22.5726,
+    "Longitude (E)": 88.3639
+  },
+  {
+    "City": "Kozhikode\n(Kerala)",
+    "Latitude (N)": 11.2588,
+    "Longitude (E)": 75.7804
+  },
+  {
+    "City": "Lucknow\n(Uttar Pradesh)",
+    "Latitude (N)": 26.8467,
+    "Longitude (E)": 80.9462
+  },
+  {
+    "City": "Mumbai\n(Maharashtra)",
+    "Latitude (N)": 19.076,
+    "Longitude (E)": 72.8777
+  },
+  {
+    "City": "Nagpur\n(Maharashtra)",
+    "Latitude (N)": 21.1458,
+    "Longitude (E)": 79.0882
+  },
+  {
+    "City": "Patna\n(Bihar)",
+    "Latitude (N)": 25.5941,
+    "Longitude (E)": 85.1376
+  },
+  {
+    "City": "Pune\n(Maharashtra)",
+    "Latitude (N)": 18.5204,
+    "Longitude (E)": 73.8567
+  },
+  {
+    "City": "Surat\n(Gujarat)",
+    "Latitude (N)": 21.1702,
+    "Longitude (E)": 72.8311
+  }
+]
