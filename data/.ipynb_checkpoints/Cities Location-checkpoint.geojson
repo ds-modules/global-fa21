@@ -1,0 +1,195 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.5714,23.0225 ]
+    },
+    "properties": {
+    "City":"Ahmedabad\n(Gujarat)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.5946,12.9716 ]
+    },
+    "properties": {
+    "City":"Bengaluru\n(Karnataka)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.2707,13.0827 ]
+    },
+    "properties": {
+    "City":"Chennai\n(Tamil Nadu)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.9558,11.0168 ]
+    },
+    "properties": {
+    "City":"Coimbatore\n(Tamil Nadu)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.1025,28.7041 ]
+    },
+    "properties": {
+    "City":"Delhi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.4538,28.6692 ]
+    },
+    "properties": {
+    "City":"Ghaziabad\n(Uttar Pradesh)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.4867,17.385 ]
+    },
+    "properties": {
+    "City":"Hyderabad\n(Telangana)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.8577,22.7196 ]
+    },
+    "properties": {
+    "City":"Indore\n(Madhya Pradesh)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.7873,26.9124 ]
+    },
+    "properties": {
+    "City":"Jaipur\n(Rajasthan)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.3319,26.4499 ]
+    },
+    "properties": {
+    "City":"Kanpur\n(Uttar Pradesh)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.2673,9.9312 ]
+    },
+    "properties": {
+    "City":"Kochi\n(Kerala)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.3639,22.5726 ]
+    },
+    "properties": {
+    "City":"Kolkata\n(West Bengal)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.7804,11.2588 ]
+    },
+    "properties": {
+    "City":"Kozhikode\n(Kerala)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.9462,26.8467 ]
+    },
+    "properties": {
+    "City":"Lucknow\n(Uttar Pradesh)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.8777,19.076 ]
+    },
+    "properties": {
+    "City":"Mumbai\n(Maharashtra)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.0882,21.1458 ]
+    },
+    "properties": {
+    "City":"Nagpur\n(Maharashtra)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.1376,25.5941 ]
+    },
+    "properties": {
+    "City":"Patna\n(Bihar)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.8567,18.5204 ]
+    },
+    "properties": {
+    "City":"Pune\n(Maharashtra)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.8311,21.1702 ]
+    },
+    "properties": {
+    "City":"Surat\n(Gujarat)"
+    }
+  }
+]
+}
