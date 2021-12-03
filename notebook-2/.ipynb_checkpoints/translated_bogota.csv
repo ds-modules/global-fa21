@@ -1,0 +1,841 @@
+,Year,Census Tract,Age Group,Men (rate per hundred thousand inhabitants),Women (rate per hundred thousand inhabitants)
+0,2007,Bogotá D.C.,"Boys, girls and adolescents or minors (<18 years)",56.94665290529462,272.7627922063561
+1,2007,Bogotá D.C.,Adults or of legal age (> 18 years),1.9041436379682701,26.26095307058913
+2,2007,Bolívar,"Boys, girls and adolescents or minors (<18 years)",23.239903698017034,131.62215411558668
+3,2007,Bolívar,Adults or of legal age (> 18 years),0.5218090074670869,10.100670011110736
+4,2007,Boyacá,"Boys, girls and adolescents or minors (<18 years)",20.632621437714747,136.8558049670607
+5,2007,Boyacá,Adults or of legal age (> 18 years),1.021041104562267,15.932036383868937
+6,2007,Caldas,"Boys, girls and adolescents or minors (<18 years)",53.45027605852805,212.30607886019772
+7,2007,Caldas,Adults or of legal age (> 18 years),1.6037514954982697,12.360030017215756
+8,2007,Caquetá,"Boys, girls and adolescents or minors (<18 years)",21.07192902974303,105.20317362907115
+9,2007,Caquetá,Adults or of legal age (> 18 years),0.8116619590273042,9.864283894090473
+10,2007,Cauca,"Boys, girls and adolescents or minors (<18 years)",14.851117546595383,72.3967834559034
+11,2007,Cauca,Adults or of legal age (> 18 years),0.25230480438808517,11.252017051920387
+12,2007,Cesar,"Boys, girls and adolescents or minors (<18 years)",27.006987444206022,133.02877649618702
+13,2007,Cesar,Adults or of legal age (> 18 years),1.923298842174097,17.342725464655896
+14,2007,Córdoba,"Boys, girls and adolescents or minors (<18 years)",13.671757011544686,115.2239665850497
+15,2007,Córdoba,Adults or of legal age (> 18 years),1.7992933275456064,11.445022075686811
+16,2007,Cundinamarca,"Boys, girls and adolescents or minors (<18 years)",42.43382044300909,186.3461289409688
+17,2007,Cundinamarca,Adults or of legal age (> 18 years),1.6168410160228943,13.499557004828386
+18,2007,Chocó,"Boys, girls and adolescents or minors (<18 years)",20.75514122144006,112.38761238761239
+19,2007,Chocó,Adults or of legal age (> 18 years),5.26551351920596,28.101960525010742
+20,2007,Huila,"Boys, girls and adolescents or minors (<18 years)",31.156324497840302,172.77448253796362
+21,2007,Huila,Adults or of legal age (> 18 years),1.2882157246052426,17.4831287807266
+22,2007,La Guajira,"Boys, girls and adolescents or minors (<18 years)",6.625707746054693,74.27472911569382
+23,2007,La Guajira,Adults or of legal age (> 18 years),0.504306779900349,7.091460935505527
+24,2007,Magdalena,"Boys, girls and adolescents or minors (<18 years)",15.40509474133266,109.38289814960598
+25,2007,Magdalena,Adults or of legal age (> 18 years),0.8914244963451595,11.806061822442732
+26,2007,Antioquia,"Boys, girls and adolescents or minors (<18 years)",31.622177820384035,136.8350297676205
+27,2007,Antioquia,Adults or of legal age (> 18 years),1.2979385490993929,15.998182922433502
+28,2007,Meta,"Boys, girls and adolescents or minors (<18 years)",58.530130293159615,245.9594727367442
+29,2007,Meta,Adults or of legal age (> 18 years),4.314960753470601,15.735207921103667
+30,2007,Nariño,"Boys, girls and adolescents or minors (<18 years)",12.090120411064095,99.89324124389398
+31,2007,Nariño,Adults or of legal age (> 18 years),0.4117624048571493,14.485580811433952
+32,2007,Norte de Santander,"Boys, girls and adolescents or minors (<18 years)",39.86614639332181,164.3104242081209
+33,2007,Norte de Santander,Adults or of legal age (> 18 years),1.3181169907916348,11.98056153890313
+34,2007,Quindio,"Boys, girls and adolescents or minors (<18 years)",43.053960964408724,288.3565971623873
+35,2007,Quindio,Adults or of legal age (> 18 years),1.7178490239754463,19.121779175320157
+36,2007,Risaralda,"Boys, girls and adolescents or minors (<18 years)",53.60983805906235,205.04169409699364
+37,2007,Risaralda,Adults or of legal age (> 18 years),1.721680084293457,20.660574927453208
+38,2007,Santander,"Boys, girls and adolescents or minors (<18 years)",48.34963694602972,214.55915507875744
+39,2007,Santander,Adults or of legal age (> 18 years),1.5889409708429334,19.949025772950314
+40,2007,Sucre,"Boys, girls and adolescents or minors (<18 years)",24.133514025284498,182.39616446922716
+41,2007,Sucre,Adults or of legal age (> 18 years),0.8431454383723921,12.775035876559087
+42,2007,Tolima,"Boys, girls and adolescents or minors (<18 years)",31.414495107767042,152.3574559164117
+43,2007,Tolima,Adults or of legal age (> 18 years),2.5502692852522566,10.97732496312305
+44,2007,Valle del Cauca,"Boys, girls and adolescents or minors (<18 years)",28.632583599424542,139.68775677896465
+45,2007,Valle del Cauca,Adults or of legal age (> 18 years),0.9619568273775873,13.432521197781906
+46,2007,Atlántico,"Boys, girls and adolescents or minors (<18 years)",21.14590926165948,120.6064782908339
+47,2007,Atlántico,Adults or of legal age (> 18 years),0.576012810524906,9.785273565418574
+48,2007,Arauca,"Boys, girls and adolescents or minors (<18 years)",25.377950186709203,132.6111318640269
+49,2007,Arauca,Adults or of legal age (> 18 years),0.0,10.893585234523329
+50,2007,Casanare,"Boys, girls and adolescents or minors (<18 years)",21.557033752155704,203.96036423787882
+51,2007,Casanare,Adults or of legal age (> 18 years),3.2667995165136716,12.443861217009626
+52,2007,Putumayo,"Boys, girls and adolescents or minors (<18 years)",5.5432372505543235,34.43377953772651
+53,2007,Putumayo,Adults or of legal age (> 18 years),0.0,4.693568637574364
+54,2007,"Archipiélago de San Andrés, Providencia y Santa Catalina","Boys, girls and adolescents or minors (<18 years)",40.02241255102858,284.1858910063524
+55,2007,"Archipiélago de San Andrés, Providencia y Santa Catalina",Adults or of legal age (> 18 years),0.0,33.25988442190163
+56,2007,Amazonas,"Boys, girls and adolescents or minors (<18 years)",63.07339449541285,307.1107961256792
+57,2007,Amazonas,Adults or of legal age (> 18 years),44.4247001332741,52.65005265005265
+58,2007,Guaviare,"Boys, girls and adolescents or minors (<18 years)",42.39443784975411,233.08011049723757
+59,2007,Guaviare,Adults or of legal age (> 18 years),0.0,17.065574469900593
+60,2007,Vichada,"Boys, girls and adolescents or minors (<18 years)",13.20829480914014,96.61835748792271
+61,2007,Vichada,Adults or of legal age (> 18 years),0.0,14.078558355624384
+62,2007,Sin información,"Boys, girls and adolescents or minors (<18 years)",0.0,0.0
+63,2008,Bogotá D.C.,"Boys, girls and adolescents or minors (<18 years)",53.95910588613481,269.25301861834424
+64,2008,Bogotá D.C.,Adults or of legal age (> 18 years),1.9037861113611032,26.39062001962731
+65,2008,Bolívar,"Boys, girls and adolescents or minors (<18 years)",22.230126267117196,115.54742646857493
+66,2008,Bolívar,Adults or of legal age (> 18 years),0.6828199096629259,13.7391741928649
+67,2008,Boyacá,"Boys, girls and adolescents or minors (<18 years)",27.230798032574842,140.4164634917195
+68,2008,Boyacá,Adults or of legal age (> 18 years),2.0212841218025814,14.843582705522786
+69,2008,Caldas,"Boys, girls and adolescents or minors (<18 years)",59.37103806549367,228.4486966708972
+70,2008,Caldas,Adults or of legal age (> 18 years),1.2675074466062488,11.933417352353066
+71,2008,Caquetá,"Boys, girls and adolescents or minors (<18 years)",25.24163607871184,144.39327477383858
+72,2008,Caquetá,Adults or of legal age (> 18 years),0.7963749014486059,12.859875580703756
+73,2008,Cauca,"Boys, girls and adolescents or minors (<18 years)",8.653819677999238,87.28626188348932
+74,2008,Cauca,Adults or of legal age (> 18 years),0.4961154162904458,11.321637662308255
+75,2008,Cesar,"Boys, girls and adolescents or minors (<18 years)",18.680103232149442,145.35258310095819
+76,2008,Cesar,Adults or of legal age (> 18 years),0.37514443060578323,20.91914390206955
+77,2008,Córdoba,"Boys, girls and adolescents or minors (<18 years)",14.590020426028595,110.827736310104
+78,2008,Córdoba,Adults or of legal age (> 18 years),0.878121171940516,6.020883865751492
+79,2008,Cundinamarca,"Boys, girls and adolescents or minors (<18 years)",48.16546902845662,190.3257859038915
+80,2008,Cundinamarca,Adults or of legal age (> 18 years),1.3131855649389959,19.020799052279113
+81,2008,Chocó,"Boys, girls and adolescents or minors (<18 years)",7.832148358294679,104.91579834645529
+82,2008,Chocó,Adults or of legal age (> 18 years),4.268433228899,24.290317879293315
+83,2008,Huila,"Boys, girls and adolescents or minors (<18 years)",49.04804350184166,193.3246427429471
+84,2008,Huila,Adults or of legal age (> 18 years),1.8900316580302718,17.099544219421354
+85,2008,La Guajira,"Boys, girls and adolescents or minors (<18 years)",11.137032391179469,65.57297422010662
+86,2008,La Guajira,Adults or of legal age (> 18 years),0.0,10.411668311408473
+87,2008,Magdalena,"Boys, girls and adolescents or minors (<18 years)",16.942407634327683,121.13044053446222
+88,2008,Magdalena,Adults or of legal age (> 18 years),0.2929759027320003,10.49195616693868
+89,2008,Antioquia,"Boys, girls and adolescents or minors (<18 years)",37.07886674957635,169.9335161342433
+90,2008,Antioquia,Adults or of legal age (> 18 years),1.16362466968927,17.82980795992207
+91,2008,Meta,"Boys, girls and adolescents or minors (<18 years)",57.48796543141244,219.41746301014558
+92,2008,Meta,Adults or of legal age (> 18 years),2.669514148424987,14.485295519088188
+93,2008,Nariño,"Boys, girls and adolescents or minors (<18 years)",13.403642521584766,116.30420238989699
+94,2008,Nariño,Adults or of legal age (> 18 years),0.604858221232943,14.418386009820304
+95,2008,Norte de Santander,"Boys, girls and adolescents or minors (<18 years)",30.71042093480905,138.1080886433634
+96,2008,Norte de Santander,Adults or of legal age (> 18 years),1.0376377139803523,17.69811441339354
+97,2008,Quindio,"Boys, girls and adolescents or minors (<18 years)",62.337893647100735,340.7826409495549
+98,2008,Quindio,Adults or of legal age (> 18 years),0.5653166904099677,15.74125573244063
+99,2008,Risaralda,"Boys, girls and adolescents or minors (<18 years)",55.4195723456334,233.9375566675664
+100,2008,Risaralda,Adults or of legal age (> 18 years),1.6989062441600098,20.073499891911922
+101,2008,Santander,"Boys, girls and adolescents or minors (<18 years)",48.0997676635465,228.05087005698206
+102,2008,Santander,Adults or of legal age (> 18 years),1.4080805046560527,21.290153964520325
+103,2008,Sucre,"Boys, girls and adolescents or minors (<18 years)",20.534903112593497,156.34505812242014
+104,2008,Sucre,Adults or of legal age (> 18 years),0.8261322141995605,11.285124951411268
+105,2008,Tolima,"Boys, girls and adolescents or minors (<18 years)",35.27842821033697,162.65801359061373
+106,2008,Tolima,Adults or of legal age (> 18 years),3.210434830466109,16.03972429747137
+107,2008,Valle del Cauca,"Boys, girls and adolescents or minors (<18 years)",34.23431834803853,161.50052158905874
+108,2008,Valle del Cauca,Adults or of legal age (> 18 years),1.596773936004204,14.685802158094944
+109,2008,Atlántico,"Boys, girls and adolescents or minors (<18 years)",26.151018395373512,121.15958074607146
+110,2008,Atlántico,Adults or of legal age (> 18 years),0.42254116255158525,10.254077639143233
+111,2008,Arauca,"Boys, girls and adolescents or minors (<18 years)",30.543677458766037,177.61332099907492
+112,2008,Arauca,Adults or of legal age (> 18 years),4.520114509567576,18.357606168155673
+113,2008,Casanare,"Boys, girls and adolescents or minors (<18 years)",29.176008107859097,206.61157024793388
+114,2008,Casanare,Adults or of legal age (> 18 years),2.114053168437186,17.530788447210412
+115,2008,Putumayo,"Boys, girls and adolescents or minors (<18 years)",2.771234585007621,83.25677537896188
+116,2008,Putumayo,Adults or of legal age (> 18 years),1.1041427435738893,9.19667080516853
+117,2008,"Archipiélago de San Andrés, Providencia y Santa Catalina","Boys, girls and adolescents or minors (<18 years)",24.215029461619178,354.10167776747323
+118,2008,"Archipiélago de San Andrés, Providencia y Santa Catalina",Adults or of legal age (> 18 years),4.256587068488486,36.84900098264002
+119,2008,Amazonas,"Boys, girls and adolescents or minors (<18 years)",79.6495420151334,515.3431717029749
+120,2008,Amazonas,Adults or of legal age (> 18 years),16.464518961637673,22.937095016916107
+121,2008,Guaviare,"Boys, girls and adolescents or minors (<18 years)",21.272069772388853,99.83505512631305
+122,2008,Guaviare,Adults or of legal age (> 18 years),0.0,16.422383708995362
+123,2008,Vaupés,Adults or of legal age (> 18 years),0.0,10.023053021950487
+124,2008,Vichada,"Boys, girls and adolescents or minors (<18 years)",20.00133342222815,173.98566358132092
+125,2008,Vichada,Adults or of legal age (> 18 years),0.0,6.601531555320834
+126,2008,Sin información,"Boys, girls and adolescents or minors (<18 years)",0.0,0.0
+127,2008,Sin información,Adults or of legal age (> 18 years),0.0,0.0
+128,2009,Bogotá D.C.,"Boys, girls and adolescents or minors (<18 years)",57.09104342277597,270.7962090373512
+129,2009,Bogotá D.C.,Adults or of legal age (> 18 years),2.0299184607128313,24.420060893326152
+130,2009,Bolívar,"Boys, girls and adolescents or minors (<18 years)",26.7348843060987,139.79994901413625
+131,2009,Bolívar,Adults or of legal age (> 18 years),1.3392954301565805,13.500962146880708
+132,2009,Boyacá,"Boys, girls and adolescents or minors (<18 years)",33.1532152160341,197.17744144012562
+133,2009,Boyacá,Adults or of legal age (> 18 years),2.9996700362960076,19.317978759882354
+134,2009,Caldas,"Boys, girls and adolescents or minors (<18 years)",90.05037783375315,266.9563662137903
+135,2009,Caldas,Adults or of legal age (> 18 years),0.9394228812099767,18.71489158319345
+136,2009,Caquetá,"Boys, girls and adolescents or minors (<18 years)",22.063458709812988,125.61441835062807
+137,2009,Caquetá,Adults or of legal age (> 18 years),2.3429446127893536,12.569031477568206
+138,2009,Cauca,"Boys, girls and adolescents or minors (<18 years)",10.69298461002289,92.86051852650256
+139,2009,Cauca,Adults or of legal age (> 18 years),0.9750508854680853,12.616766941101965
+140,2009,Cesar,"Boys, girls and adolescents or minors (<18 years)",27.09773413674009,164.52712634548635
+141,2009,Cesar,Adults or of legal age (> 18 years),0.3658688287075318,18.330125561360095
+142,2009,Córdoba,"Boys, girls and adolescents or minors (<18 years)",10.455412418495309,92.9244214705373
+143,2009,Córdoba,Adults or of legal age (> 18 years),0.42838110496622217,7.351566618846476
+144,2009,Cundinamarca,"Boys, girls and adolescents or minors (<18 years)",42.902503487262315,232.78999651655838
+145,2009,Cundinamarca,Adults or of legal age (> 18 years),1.408302841443024,20.772642802590237
+146,2009,Chocó,"Boys, girls and adolescents or minors (<18 years)",9.638047506812347,109.1299367767887
+147,2009,Chocó,Adults or of legal age (> 18 years),2.4908875032173965,19.02481946239031
+148,2009,Huila,"Boys, girls and adolescents or minors (<18 years)",24.07818327746565,190.58312526777667
+149,2009,Huila,Adults or of legal age (> 18 years),0.615640342911671,15.496432781943922
+150,2009,La Guajira,"Boys, girls and adolescents or minors (<18 years)",14.83307090207891,79.17328905931498
+151,2009,La Guajira,Adults or of legal age (> 18 years),0.46237215409939153,9.11957059850439
+152,2009,Magdalena,"Boys, girls and adolescents or minors (<18 years)",16.519109069384193,115.96092818263227
+153,2009,Magdalena,Adults or of legal age (> 18 years),0.8659908089508809,14.38153640829757
+154,2009,Antioquia,"Boys, girls and adolescents or minors (<18 years)",45.52073912789515,225.32852941765702
+155,2009,Antioquia,Adults or of legal age (> 18 years),0.98294588882882,21.236945663690026
+156,2009,Meta,"Boys, girls and adolescents or minors (<18 years)",84.70056780751011,315.75931978280965
+157,2009,Meta,Adults or of legal age (> 18 years),2.9675902054685266,27.346232871650088
+158,2009,Nariño,"Boys, girls and adolescents or minors (<18 years)",20.28762618412657,132.32410492684465
+159,2009,Nariño,Adults or of legal age (> 18 years),1.3820308350822603,16.096282922231683
+160,2009,Norte de Santander,"Boys, girls and adolescents or minors (<18 years)",49.504950495049506,192.12459194776932
+161,2009,Norte de Santander,Adults or of legal age (> 18 years),1.0205513528683872,19.84602389751707
+162,2009,Quindio,"Boys, girls and adolescents or minors (<18 years)",79.7959023118334,369.97143258558515
+163,2009,Quindio,Adults or of legal age (> 18 years),1.67369619066747,33.16749585406302
+164,2009,Risaralda,"Boys, girls and adolescents or minors (<18 years)",55.98730954317021,259.9308248611257
+165,2009,Risaralda,Adults or of legal age (> 18 years),2.0111417251573718,16.760423459717085
+166,2009,Santander,"Boys, girls and adolescents or minors (<18 years)",55.551123285080685,275.2322077599329
+167,2009,Santander,Adults or of legal age (> 18 years),1.6943878792733231,20.855661443095904
+168,2009,Sucre,"Boys, girls and adolescents or minors (<18 years)",18.1672388302804,174.98618530116045
+169,2009,Sucre,Adults or of legal age (> 18 years),1.6181949844046457,9.429823662297515
+170,2009,Tolima,"Boys, girls and adolescents or minors (<18 years)",31.80212014134276,150.29934619784402
+171,2009,Tolima,Adults or of legal age (> 18 years),0.9069163709741416,16.516861706995336
+172,2009,Valle del Cauca,"Boys, girls and adolescents or minors (<18 years)",36.800260169281195,202.91404215788586
+173,2009,Valle del Cauca,Adults or of legal age (> 18 years),1.993536669327089,16.208784520546715
+174,2009,Atlántico,"Boys, girls and adolescents or minors (<18 years)",28.434813190760185,135.60863192054745
+175,2009,Atlántico,Adults or of legal age (> 18 years),0.8267810931699614,13.539669296801156
+176,2009,Arauca,"Boys, girls and adolescents or minors (<18 years)",42.78303652601743,178.01104769594977
+177,2009,Arauca,Adults or of legal age (> 18 years),5.936215365893474,24.04713237946375
+178,2009,Casanare,"Boys, girls and adolescents or minors (<18 years)",62.817919960777104,366.1539445492629
+179,2009,Casanare,Adults or of legal age (> 18 years),3.0779964295241418,20.16150426044419
+180,2009,Putumayo,"Boys, girls and adolescents or minors (<18 years)",20.813675972692455,71.89382719599695
+181,2009,Putumayo,Adults or of legal age (> 18 years),2.1697386549790076,16.874978906276365
+182,2009,"Archipiélago de San Andrés, Providencia y Santa Catalina","Boys, girls and adolescents or minors (<18 years)",40.69010416666667,331.77371331348365
+183,2009,"Archipiélago de San Andrés, Providencia y Santa Catalina",Adults or of legal age (> 18 years),0.0,28.218979279206643
+184,2009,Amazonas,"Boys, girls and adolescents or minors (<18 years)",98.09578765147143,486.44480037966423
+185,2009,Amazonas,Adults or of legal age (> 18 years),21.23254949838102,55.12375282509234
+186,2009,Guainía,"Boys, girls and adolescents or minors (<18 years)",10.9217999126256,11.51808339092375
+187,2009,Guaviare,"Boys, girls and adolescents or minors (<18 years)",41.946308724832214,111.32519803040033
+188,2009,Guaviare,Adults or of legal age (> 18 years),0.0,24.157506945283245
+189,2009,Vaupés,"Boys, girls and adolescents or minors (<18 years)",9.900990099009901,31.289111389236545
+190,2009,Vichada,"Boys, girls and adolescents or minors (<18 years)",38.61749372465727,228.72519340733265
+191,2009,Vichada,Adults or of legal age (> 18 years),0.0,6.461200491051237
+192,2009,Sin información,"Boys, girls and adolescents or minors (<18 years)",0.0,0.0
+193,2009,Sin información,Adults or of legal age (> 18 years),0.0,0.0
+194,2010,Bogotá D.C.,"Boys, girls and adolescents or minors (<18 years)",62.82841118451908,245.54675446431867
+195,2010,Bogotá D.C.,Adults or of legal age (> 18 years),1.819195907139972,19.330993843737474
+196,2010,Bolívar,"Boys, girls and adolescents or minors (<18 years)",18.659854505697826,128.50117655457595
+197,2010,Bolívar,Adults or of legal age (> 18 years),2.133277321128799,15.177512996744023
+198,2010,Boyacá,"Boys, girls and adolescents or minors (<18 years)",36.63850445114212,173.72902891941467
+199,2010,Boyacá,Adults or of legal age (> 18 years),2.7196285481881093,23.71319962921179
+200,2010,Caldas,"Boys, girls and adolescents or minors (<18 years)",51.21376626037079,216.055407106271
+201,2010,Caldas,Adults or of legal age (> 18 years),0.6195844447129311,14.53969050415664
+202,2010,Caquetá,"Boys, girls and adolescents or minors (<18 years)",14.695385648906244,85.06461639129724
+203,2010,Caquetá,Adults or of legal age (> 18 years),1.5316867700555237,10.750293713381813
+204,2010,Cauca,"Boys, girls and adolescents or minors (<18 years)",13.561485381516494,97.68437926586432
+205,2010,Cauca,Adults or of legal age (> 18 years),0.9577878930821375,8.9973105336621
+206,2010,Cesar,"Boys, girls and adolescents or minors (<18 years)",17.782080602219796,170.44926293606602
+207,2010,Cesar,Adults or of legal age (> 18 years),0.7139567841958526,21.70437946145578
+208,2010,Córdoba,"Boys, girls and adolescents or minors (<18 years)",7.914773716619441,85.09535000448746
+209,2010,Córdoba,Adults or of legal age (> 18 years),0.8358565753702323,5.9483640973152365
+210,2010,Cundinamarca,"Boys, girls and adolescents or minors (<18 years)",61.47747813879229,271.8416732564037
+211,2010,Cundinamarca,Adults or of legal age (> 18 years),1.7487037733280206,21.83247216359799
+212,2010,Chocó,"Boys, girls and adolescents or minors (<18 years)",7.933219917670806,99.74519636202065
+213,2010,Chocó,Adults or of legal age (> 18 years),1.6174424999191277,17.86144180664601
+214,2010,Huila,"Boys, girls and adolescents or minors (<18 years)",23.66807886203877,151.6041896089402
+215,2010,Huila,Adults or of legal age (> 18 years),1.2026892130804478,16.03111223262925
+216,2010,La Guajira,"Boys, girls and adolescents or minors (<18 years)",15.543983923079486,89.1204102988696
+217,2010,La Guajira,Adults or of legal age (> 18 years),0.888347983672164,12.523638367418501
+218,2010,Magdalena,"Boys, girls and adolescents or minors (<18 years)",14.532314762082441,118.69240533456421
+219,2010,Magdalena,Adults or of legal age (> 18 years),0.5685242248172194,16.45558127922284
+220,2010,Antioquia,"Boys, girls and adolescents or minors (<18 years)",41.38762904541306,197.6391395438298
+221,2010,Antioquia,Adults or of legal age (> 18 years),1.1137249899131954,18.945772012416196
+222,2010,Meta,"Boys, girls and adolescents or minors (<18 years)",77.2595297137659,298.3258805790499
+223,2010,Meta,Adults or of legal age (> 18 years),3.6106557673004573,25.09536237703273
+224,2010,Nariño,"Boys, girls and adolescents or minors (<18 years)",17.695751053552584,99.01329313416471
+225,2010,Nariño,Adults or of legal age (> 18 years),1.1600008506672905,11.232083399171112
+226,2010,Norte de Santander,"Boys, girls and adolescents or minors (<18 years)",43.22895850835624,163.4775037027868
+227,2010,Norte de Santander,Adults or of legal age (> 18 years),1.254116637863788,13.816925734024181
+228,2010,Quindio,"Boys, girls and adolescents or minors (<18 years)",64.70140867452922,318.23774370622755
+229,2010,Quindio,Adults or of legal age (> 18 years),3.853458478984889,17.40180774073354
+230,2010,Risaralda,"Boys, girls and adolescents or minors (<18 years)",55.928034769717996,269.5893349894493
+231,2010,Risaralda,Adults or of legal age (> 18 years),0.9917552083677692,21.6527677951167
+232,2010,Santander,"Boys, girls and adolescents or minors (<18 years)",42.54834630758259,250.065350831609
+233,2010,Santander,Adults or of legal age (> 18 years),1.5169120524730217,19.43123628383321
+234,2010,Sucre,"Boys, girls and adolescents or minors (<18 years)",19.563049816359758,182.0227693936987
+235,2010,Sucre,Adults or of legal age (> 18 years),0.39619651347068147,9.247272054743851
+236,2010,Tolima,"Boys, girls and adolescents or minors (<18 years)",35.77703750228575,176.04370274366434
+237,2010,Tolima,Adults or of legal age (> 18 years),1.1214106448784054,12.573816020806358
+238,2010,Valle del Cauca,"Boys, girls and adolescents or minors (<18 years)",37.11135564329946,188.76049773952553
+239,2010,Valle del Cauca,Adults or of legal age (> 18 years),0.7683774940834932,15.785855747466558
+240,2010,Atlántico,"Boys, girls and adolescents or minors (<18 years)",27.478017585931255,137.81849278348898
+241,2010,Atlántico,Adults or of legal age (> 18 years),0.6744525468677075,11.639514126195106
+242,2010,Arauca,"Boys, girls and adolescents or minors (<18 years)",61.95128858680261,258.7463556851312
+243,2010,Arauca,Adults or of legal age (> 18 years),7.307697928998407,36.90363722248465
+244,2010,Casanare,"Boys, girls and adolescents or minors (<18 years)",55.03745604647607,320.753211521583
+245,2010,Casanare,Adults or of legal age (> 18 years),0.9967307232278128,29.82986689707667
+246,2010,Putumayo,"Boys, girls and adolescents or minors (<18 years)",18.08620161941067,164.38119133105508
+247,2010,Putumayo,Adults or of legal age (> 18 years),3.1937317691144846,18.69569998900253
+248,2010,"Archipiélago de San Andrés, Providencia y Santa Catalina","Boys, girls and adolescents or minors (<18 years)",49.281314168377826,257.48862758561495
+249,2010,"Archipiélago de San Andrés, Providencia y Santa Catalina",Adults or of legal age (> 18 years),0.0,39.68883949833307
+250,2010,Amazonas,"Boys, girls and adolescents or minors (<18 years)",52.014101600878455,380.4541671620497
+251,2010,Amazonas,Adults or of legal age (> 18 years),10.375058359703273,64.46414182111201
+252,2010,Guainía,"Boys, girls and adolescents or minors (<18 years)",0.0,11.496895838123708
+253,2010,Guaviare,"Boys, girls and adolescents or minors (<18 years)",29.210482390252043,162.06764191581013
+254,2010,Guaviare,Adults or of legal age (> 18 years),0.0,15.620728706994182
+255,2010,Vichada,"Boys, girls and adolescents or minors (<18 years)",19.081541788576516,166.02470447602602
+256,2010,Vichada,Adults or of legal age (> 18 years),0.0,18.612731108077927
+257,2010,Sin información,"Boys, girls and adolescents or minors (<18 years)",0.0,0.0
+258,2011,Bogotá D.C.,"Boys, girls and adolescents or minors (<18 years)",68.85911000708087,277.7341331090511
+259,2011,Bogotá D.C.,Adults or of legal age (> 18 years),1.1322376777158238,20.11159059696947
+260,2011,Bolívar,"Boys, girls and adolescents or minors (<18 years)",25.550319642400886,175.70874694090796
+261,2011,Bolívar,Adults or of legal age (> 18 years),1.126115256287745,17.879211809062564
+262,2011,Boyacá,"Boys, girls and adolescents or minors (<18 years)",26.526723463329013,206.03205671500618
+263,2011,Boyacá,Adults or of legal age (> 18 years),1.4680874490757168,19.004000342072004
+264,2011,Caldas,"Boys, girls and adolescents or minors (<18 years)",62.27457899789824,263.2458347825494
+265,2011,Caldas,Adults or of legal age (> 18 years),2.1489795417147626,12.438373513048983
+266,2011,Caquetá,"Boys, girls and adolescents or minors (<18 years)",19.915725037210958,106.68873018637869
+267,2011,Caquetá,Adults or of legal age (> 18 years),0.0,6.756249530816005
+268,2011,Cauca,"Boys, girls and adolescents or minors (<18 years)",13.661531538047365,124.04704536757873
+269,2011,Cauca,Adults or of legal age (> 18 years),1.1755246366453347,14.567964329981109
+270,2011,Cesar,"Boys, girls and adolescents or minors (<18 years)",25.740917663714715,206.43412216347102
+271,2011,Cesar,Adults or of legal age (> 18 years),0.6971701862141567,19.536184044326927
+272,2011,Córdoba,"Boys, girls and adolescents or minors (<18 years)",15.48290876459027,126.94435329641009
+273,2011,Córdoba,Adults or of legal age (> 18 years),0.4080217067547994,6.010048801596269
+274,2011,Cundinamarca,"Boys, girls and adolescents or minors (<18 years)",61.17483171193299,293.35994281520004
+275,2011,Cundinamarca,Adults or of legal age (> 18 years),1.7077940058870098,25.826446280991735
+276,2011,Chocó,"Boys, girls and adolescents or minors (<18 years)",8.84595651327778,79.12255811415476
+277,2011,Chocó,Adults or of legal age (> 18 years),0.0,25.916214403317277
+278,2011,Huila,"Boys, girls and adolescents or minors (<18 years)",35.63436292885956,184.41038250282563
+279,2011,Huila,Adults or of legal age (> 18 years),2.349210078111235,18.558847495570525
+280,2011,La Guajira,"Boys, girls and adolescents or minors (<18 years)",8.096641513100368,88.34268013799351
+281,2011,La Guajira,Adults or of legal age (> 18 years),0.0,7.2379558404272
+282,2011,Magdalena,"Boys, girls and adolescents or minors (<18 years)",20.42652148123706,136.03030590330306
+283,2011,Magdalena,Adults or of legal age (> 18 years),0.8389848283576872,13.135095858252754
+284,2011,Antioquia,"Boys, girls and adolescents or minors (<18 years)",47.160750059205036,219.12250959658684
+285,2011,Antioquia,Adults or of legal age (> 18 years),1.8337893025653227,18.56893866030329
+286,2011,Meta,"Boys, girls and adolescents or minors (<18 years)",97.04597011973124,367.56909592139675
+287,2011,Meta,Adults or of legal age (> 18 years),2.110884777354428,20.545679313286787
+288,2011,Nariño,"Boys, girls and adolescents or minors (<18 years)",18.37764752984727,116.14242693133892
+289,2011,Nariño,Adults or of legal age (> 18 years),0.5680634716252296,12.141566934590577
+290,2011,Norte de Santander,"Boys, girls and adolescents or minors (<18 years)",37.73770653190477,175.81852098029546
+291,2011,Norte de Santander,Adults or of legal age (> 18 years),0.7396522648152348,14.530591582568913
+292,2011,Quindio,"Boys, girls and adolescents or minors (<18 years)",76.79787258430572,404.1321918790951
+293,2011,Quindio,Adults or of legal age (> 18 years),1.0867025640747,16.68065145526047
+294,2011,Risaralda,"Boys, girls and adolescents or minors (<18 years)",61.99670259296099,282.2764598540146
+295,2011,Risaralda,Adults or of legal age (> 18 years),0.6522752993128279,22.86026440716209
+296,2011,Santander,"Boys, girls and adolescents or minors (<18 years)",58.61522295044128,304.5899210748129
+297,2011,Santander,Adults or of legal age (> 18 years),2.392019028511372,21.008432982393806
+298,2011,Sucre,"Boys, girls and adolescents or minors (<18 years)",33.03454015284828,213.7548943877687
+299,2011,Sucre,Adults or of legal age (> 18 years),1.9415138371691176,15.77442571231391
+300,2011,Tolima,"Boys, girls and adolescents or minors (<18 years)",36.219344349379845,163.96032501718594
+301,2011,Tolima,Adults or of legal age (> 18 years),1.9975762741207337,15.044446527894367
+302,2011,Valle del Cauca,"Boys, girls and adolescents or minors (<18 years)",43.778394347658434,195.2386569516153
+303,2011,Valle del Cauca,Adults or of legal age (> 18 years),1.0971619164127195,14.450804582510697
+304,2011,Atlántico,"Boys, girls and adolescents or minors (<18 years)",32.76761259176807,162.5560831575145
+305,2011,Atlántico,Adults or of legal age (> 18 years),1.4532867400796665,14.775909059867265
+306,2011,Arauca,"Boys, girls and adolescents or minors (<18 years)",49.26541743643882,221.06254982967312
+307,2011,Arauca,Adults or of legal age (> 18 years),1.438538444939941,18.832118903101506
+308,2011,Casanare,"Boys, girls and adolescents or minors (<18 years)",60.92174601724086,450.3930992774612
+309,2011,Casanare,Adults or of legal age (> 18 years),7.760360080707745,33.947720510413966
+310,2011,Putumayo,"Boys, girls and adolescents or minors (<18 years)",15.344055573379459,189.47886081258952
+311,2011,Putumayo,Adults or of legal age (> 18 years),0.0,21.497748110885386
+312,2011,"Archipiélago de San Andrés, Providencia y Santa Catalina","Boys, girls and adolescents or minors (<18 years)",33.140016570008285,190.3608202820801
+313,2011,"Archipiélago de San Andrés, Providencia y Santa Catalina",Adults or of legal age (> 18 years),0.0,35.17273722057214
+314,2011,Amazonas,"Boys, girls and adolescents or minors (<18 years)",57.84359093012494,540.2837974232618
+315,2011,Amazonas,Adults or of legal age (> 18 years),20.369710240871825,68.0984808800419
+316,2011,Guainía,"Boys, girls and adolescents or minors (<18 years)",0.0,11.453441759248655
+317,2011,Guaviare,"Boys, girls and adolescents or minors (<18 years)",16.607157684962218,119.12359072537757
+318,2011,Guaviare,Adults or of legal age (> 18 years),3.2325844512687896,0.0
+319,2011,Vichada,"Boys, girls and adolescents or minors (<18 years)",31.318509238960228,98.21896280775276
+320,2011,Vichada,Adults or of legal age (> 18 years),17.332023802646024,29.875717017208412
+321,2011,Sin información,"Boys, girls and adolescents or minors (<18 years)",0.0,0.0
+322,2011,Sin información,Adults or of legal age (> 18 years),0.0,0.0
+323,2012,Bogotá D.C.,"Boys, girls and adolescents or minors (<18 years)",60.38792135006079,249.30814672294173
+324,2012,Bogotá D.C.,Adults or of legal age (> 18 years),2.096672422625865,19.552642583682665
+325,2012,Bolívar,"Boys, girls and adolescents or minors (<18 years)",30.110139721613265,164.47504359828417
+326,2012,Bolívar,Adults or of legal age (> 18 years),1.2613720574554972,15.236394976606748
+327,2012,Boyacá,"Boys, girls and adolescents or minors (<18 years)",31.384505021520802,187.60033055653182
+328,2012,Boyacá,Adults or of legal age (> 18 years),1.6949193581582522,18.13727799500636
+329,2012,Caldas,"Boys, girls and adolescents or minors (<18 years)",68.89266522757543,240.71787726836936
+330,2012,Caldas,Adults or of legal age (> 18 years),0.6090968616284205,19.35711921180055
+331,2012,Caquetá,"Boys, girls and adolescents or minors (<18 years)",14.655849254121957,190.15125173852573
+332,2012,Caquetá,Adults or of legal age (> 18 years),0.0,14.680084263683673
+333,2012,Cauca,"Boys, girls and adolescents or minors (<18 years)",15.387667998914765,104.64594083903165
+334,2012,Cauca,Adults or of legal age (> 18 years),1.6156766800152333,16.416125325391057
+335,2012,Cesar,"Boys, girls and adolescents or minors (<18 years)",38.69527471164579,222.9619720208651
+336,2012,Cesar,Adults or of legal age (> 18 years),0.6812754839610718,20.093285548645515
+337,2012,Córdoba,"Boys, girls and adolescents or minors (<18 years)",16.72008681826212,131.24704528849554
+338,2012,Córdoba,Adults or of legal age (> 18 years),0.7966715064460683,9.196193949687036
+339,2012,Cundinamarca,"Boys, girls and adolescents or minors (<18 years)",44.81761972706984,272.64965237169326
+340,2012,Cundinamarca,Adults or of legal age (> 18 years),3.8153103635752323,22.815449649661243
+341,2012,Chocó,"Boys, girls and adolescents or minors (<18 years)",7.093141818504234,69.25333965118186
+342,2012,Chocó,Adults or of legal age (> 18 years),0.772242515039423,20.221235292796
+343,2012,Huila,"Boys, girls and adolescents or minors (<18 years)",41.043066585216856,207.6786310143383
+344,2012,Huila,Adults or of legal age (> 18 years),1.7209729233593392,18.981245396339737
+345,2012,La Guajira,"Boys, girls and adolescents or minors (<18 years)",12.070639481487312,84.82594368862354
+346,2012,La Guajira,Adults or of legal age (> 18 years),0.8251369727374744,7.7610527091894745
+347,2012,Magdalena,"Boys, girls and adolescents or minors (<18 years)",16.114831934094266,127.85930527027807
+348,2012,Magdalena,Adults or of legal age (> 18 years),0.5500111377255389,11.833733295171836
+349,2012,Antioquia,"Boys, girls and adolescents or minors (<18 years)",46.43174584384851,206.28071910890148
+350,2012,Antioquia,Adults or of legal age (> 18 years),1.407945375603414,19.278357216828535
+351,2012,Meta,"Boys, girls and adolescents or minors (<18 years)",86.4304235090752,364.165130710409
+352,2012,Meta,Adults or of legal age (> 18 years),2.4016358571095284,27.75868897743083
+353,2012,Nariño,"Boys, girls and adolescents or minors (<18 years)",9.206226039152764,91.15332949529841
+354,2012,Nariño,Adults or of legal age (> 18 years),0.37091644179857386,16.12808632924755
+355,2012,Norte de Santander,"Boys, girls and adolescents or minors (<18 years)",37.567445950353175,145.69153911472992
+356,2012,Norte de Santander,Adults or of legal age (> 18 years),1.4536890995122873,15.444691866871366
+357,2012,Quindio,"Boys, girls and adolescents or minors (<18 years)",74.08436356901422,326.38259292837716
+358,2012,Quindio,Adults or of legal age (> 18 years),1.6091485458660975,22.467534412773542
+359,2012,Risaralda,"Boys, girls and adolescents or minors (<18 years)",65.45404437095218,277.93578675268753
+360,2012,Risaralda,Adults or of legal age (> 18 years),2.2524914163987813,18.17531557624545
+361,2012,Santander,"Boys, girls and adolescents or minors (<18 years)",56.95251699339966,291.0223332934081
+362,2012,Santander,Adults or of legal age (> 18 years),3.2424417944851958,22.5460001029879
+363,2012,Sucre,"Boys, girls and adolescents or minors (<18 years)",30.696425145488263,246.55129673922508
+364,2012,Sucre,Adults or of legal age (> 18 years),1.903521896212372,16.24883936861653
+365,2012,Tolima,"Boys, girls and adolescents or minors (<18 years)",29.72457937684252,150.24414673844998
+366,2012,Tolima,Adults or of legal age (> 18 years),1.3187363867941737,14.013271646192917
+367,2012,Valle del Cauca,"Boys, girls and adolescents or minors (<18 years)",36.36831020269855,206.67423659322822
+368,2012,Valle del Cauca,Adults or of legal age (> 18 years),1.6161344085116411,13.466158996516388
+369,2012,Atlántico,"Boys, girls and adolescents or minors (<18 years)",29.799616361241466,143.8618925831202
+370,2012,Atlántico,Adults or of legal age (> 18 years),1.424333573743576,13.04386517763428
+371,2012,Arauca,"Boys, girls and adolescents or minors (<18 years)",36.75891403665389,225.5422034571109
+372,2012,Arauca,Adults or of legal age (> 18 years),8.494131970497047,26.997456555408725
+373,2012,Casanare,"Boys, girls and adolescents or minors (<18 years)",57.6360134079568,420.4547257524553
+374,2012,Casanare,Adults or of legal age (> 18 years),2.8346813818126844,26.1891828974936
+375,2012,Putumayo,"Boys, girls and adolescents or minors (<18 years)",18.195560283290877,137.9070071276148
+376,2012,Putumayo,Adults or of legal age (> 18 years),1.0238453583970677,24.14875633904854
+377,2012,"Archipiélago de San Andrés, Providencia y Santa Catalina","Boys, girls and adolescents or minors (<18 years)",8.357709987463435,122.12142358688067
+378,2012,"Archipiélago de San Andrés, Providencia y Santa Catalina",Adults or of legal age (> 18 years),3.9799410968717663,19.241129839144154
+379,2012,Amazonas,"Boys, girls and adolescents or minors (<18 years)",23.137436372049976,236.88262465948122
+380,2012,Amazonas,Adults or of legal age (> 18 years),9.986518200429419,25.643655759565082
+381,2012,Guaviare,"Boys, girls and adolescents or minors (<18 years)",20.674826331458817,225.13911898390046
+382,2012,Guaviare,Adults or of legal age (> 18 years),0.0,22.115739034279397
+383,2012,Vichada,"Boys, girls and adolescents or minors (<18 years)",30.824240182479503,90.2178115736564
+384,2012,Vichada,Adults or of legal age (> 18 years),0.0,11.541346875180334
+385,2012,Sin información,"Boys, girls and adolescents or minors (<18 years)",0.0,0.0
+386,2013,Bogotá D.C.,"Boys, girls and adolescents or minors (<18 years)",47.98263722900715,233.35996495415114
+387,2013,Bogotá D.C.,Adults or of legal age (> 18 years),1.5873986871825685,16.073069209599044
+388,2013,Bolívar,"Boys, girls and adolescents or minors (<18 years)",26.486137155812646,166.20697461892493
+389,2013,Bolívar,Adults or of legal age (> 18 years),1.5453036676237248,15.704466108554103
+390,2013,Boyacá,"Boys, girls and adolescents or minors (<18 years)",37.28272582192497,193.15992292870905
+391,2013,Boyacá,Adults or of legal age (> 18 years),1.9171227821285812,13.550705337576105
+392,2013,Caldas,"Boys, girls and adolescents or minors (<18 years)",69.56913515626553,291.13500863654093
+393,2013,Caldas,Adults or of legal age (> 18 years),0.9071858188712794,16.995572792595503
+394,2013,Caquetá,"Boys, girls and adolescents or minors (<18 years)",26.14078380526162,146.39065702295622
+395,2013,Caquetá,Adults or of legal age (> 18 years),1.4454626926079037,12.924720682425253
+396,2013,Cauca,"Boys, girls and adolescents or minors (<18 years)",13.46784857240805,108.83018223720711
+397,2013,Cauca,Adults or of legal age (> 18 years),0.9065114719026769,13.820331089065125
+398,2013,Cesar,"Boys, girls and adolescents or minors (<18 years)",36.285552385402276,230.2076025671006
+399,2013,Cesar,Adults or of legal age (> 18 years),0.6662358341605762,21.2733725064223
+400,2013,Córdoba,"Boys, girls and adolescents or minors (<18 years)",17.637128675451635,121.34881849778075
+401,2013,Córdoba,Adults or of legal age (> 18 years),0.7780390692318615,10.130279213431605
+402,2013,Cundinamarca,"Boys, girls and adolescents or minors (<18 years)",52.663976472197525,260.8490577274449
+403,2013,Cundinamarca,Adults or of legal age (> 18 years),1.866159071399246,19.83101707053949
+404,2013,Chocó,"Boys, girls and adolescents or minors (<18 years)",3.5511363636363633,68.39695770332135
+405,2013,Chocó,Adults or of legal age (> 18 years),0.0,12.52089885323297
+406,2013,Huila,"Boys, girls and adolescents or minors (<18 years)",33.55029188753942,194.63624537176025
+407,2013,Huila,Adults or of legal age (> 18 years),1.6821470925489295,19.937584284753008
+408,2013,La Guajira,"Boys, girls and adolescents or minors (<18 years)",18.379631284174625,86.78993660100973
+409,2013,La Guajira,Adults or of legal age (> 18 years),0.7973146442780714,6.749308195909919
+410,2013,Magdalena,"Boys, girls and adolescents or minors (<18 years)",17.702457101045624,138.2754777727329
+411,2013,Magdalena,Adults or of legal age (> 18 years),0.5406866720735334,15.169574168382272
+412,2013,Antioquia,"Boys, girls and adolescents or minors (<18 years)",40.03243548737186,189.88101361313994
+413,2013,Antioquia,Adults or of legal age (> 18 years),1.4276849042308966,18.13207314696766
+414,2013,Meta,"Boys, girls and adolescents or minors (<18 years)",77.17596728225135,380.8969427009516
+415,2013,Meta,Adults or of legal age (> 18 years),4.352586273282152,20.422212779693734
+416,2013,Nariño,"Boys, girls and adolescents or minors (<18 years)",12.188694162603769,93.58930407953376
+417,2013,Nariño,Adults or of legal age (> 18 years),1.0899954765187725,14.02723801885045
+418,2013,Norte de Santander,"Boys, girls and adolescents or minors (<18 years)",23.281531924800653,131.3496501677634
+419,2013,Norte de Santander,Adults or of legal age (> 18 years),1.4282789714487034,12.242788090941243
+420,2013,Quindio,"Boys, girls and adolescents or minors (<18 years)",103.97439192504497,354.19847328244276
+421,2013,Quindio,Adults or of legal age (> 18 years),3.178285950386956,17.265619219100707
+422,2013,Risaralda,"Boys, girls and adolescents or minors (<18 years)",71.04449335525032,335.23128049622954
+423,2013,Risaralda,Adults or of legal age (> 18 years),1.9056875244166214,19.690796579592806
+424,2013,Santander,"Boys, girls and adolescents or minors (<18 years)",57.4052812858783,290.70435105011205
+425,2013,Santander,Adults or of legal age (> 18 years),2.4710487566990857,21.026303493389772
+426,2013,Sucre,"Boys, girls and adolescents or minors (<18 years)",22.52397194156638,206.83986417291004
+427,2013,Sucre,Adults or of legal age (> 18 years),2.9876051730383573,18.98614011771407
+428,2013,Tolima,"Boys, girls and adolescents or minors (<18 years)",32.93577112932642,161.8433565701423
+429,2013,Tolima,Adults or of legal age (> 18 years),2.17780942860814,10.024912975223534
+430,2013,Valle del Cauca,"Boys, girls and adolescents or minors (<18 years)",42.79921578893956,193.91389793035682
+431,2013,Valle del Cauca,Adults or of legal age (> 18 years),1.4555174033569525,12.814774063612537
+432,2013,Atlántico,"Boys, girls and adolescents or minors (<18 years)",30.57713081247447,165.5081967213115
+433,2013,Atlántico,Adults or of legal age (> 18 years),0.8888900176381176,13.29070728115234
+434,2013,Arauca,"Boys, girls and adolescents or minors (<18 years)",24.393218685205515,199.56491253303605
+435,2013,Arauca,Adults or of legal age (> 18 years),4.179961265692271,26.483789133283153
+436,2013,Casanare,"Boys, girls and adolescents or minors (<18 years)",49.81733643307871,350.8439218661104
+437,2013,Casanare,Adults or of legal age (> 18 years),4.606936203147459,21.700160392489856
+438,2013,Putumayo,"Boys, girls and adolescents or minors (<18 years)",15.454864769933263,186.51007591542935
+439,2013,Putumayo,Adults or of legal age (> 18 years),0.0,20.50461866535437
+440,2013,"Archipiélago de San Andrés, Providencia y Santa Catalina","Boys, girls and adolescents or minors (<18 years)",8.42034355001684,149.43741209563993
+441,2013,"Archipiélago de San Andrés, Providencia y Santa Catalina",Adults or of legal age (> 18 years),0.0,15.159554309103312
+442,2013,Amazonas,"Boys, girls and adolescents or minors (<18 years)",17.34505087881591,212.91696238466997
+443,2013,Amazonas,Adults or of legal age (> 18 years),4.904364884747426,50.13285205795358
+444,2013,Guaviare,"Boys, girls and adolescents or minors (<18 years)",37.02027888610094,122.89177048902448
+445,2013,Guaviare,Adults or of legal age (> 18 years),3.1086794329768717,14.359047995117924
+446,2013,Vaupés,"Boys, girls and adolescents or minors (<18 years)",0.0,10.440593025683858
+447,2013,Vichada,"Boys, girls and adolescents or minors (<18 years)",12.1410793419535,145.6710367977706
+448,2013,Vichada,Adults or of legal age (> 18 years),0.0,5.575379125780553
+449,2013,Sin información,"Boys, girls and adolescents or minors (<18 years)",0.0,0.0
+450,2014,Bogotá D.C.,"Boys, girls and adolescents or minors (<18 years)",51.66012810641094,261.9125402529519
+451,2014,Bogotá D.C.,Adults or of legal age (> 18 years),1.8199486850302016,17.84701847912866
+452,2014,Bolívar,"Boys, girls and adolescents or minors (<18 years)",25.758617850987726,177.63906067121002
+453,2014,Bolívar,Adults or of legal age (> 18 years),1.8178210082544224,14.520820337446086
+454,2014,Boyacá,"Boys, girls and adolescents or minors (<18 years)",26.72244593312017,144.4818665495192
+455,2014,Boyacá,Adults or of legal age (> 18 years),0.9493385483664256,12.518749145131713
+456,2014,Caldas,"Boys, girls and adolescents or minors (<18 years)",52.14182576608375,259.21841082956917
+457,2014,Caldas,Adults or of legal age (> 18 years),0.6008171112713291,17.440943029021177
+458,2014,Caquetá,"Boys, girls and adolescents or minors (<18 years)",20.885765306655248,98.46566686143392
+459,2014,Caquetá,Adults or of legal age (> 18 years),2.83649720959587,9.835259404966806
+460,2014,Cauca,"Boys, girls and adolescents or minors (<18 years)",12.74340939641458,104.83531403332388
+461,2014,Cauca,Adults or of legal age (> 18 years),0.8904620384902215,17.203522194807253
+462,2014,Cesar,"Boys, girls and adolescents or minors (<18 years)",39.32989819032684,218.71810360989025
+463,2014,Cesar,Adults or of legal age (> 18 years),0.9780301820114169,19.88002562314414
+464,2014,Córdoba,"Boys, girls and adolescents or minors (<18 years)",16.026547504572278,127.54892388813829
+465,2014,Córdoba,Adults or of legal age (> 18 years),0.19008913279436726,11.395606900133384
+466,2014,Cundinamarca,"Boys, girls and adolescents or minors (<18 years)",48.14745840468393,263.1610142367738
+467,2014,Cundinamarca,Adults or of legal age (> 18 years),2.6263113001040246,18.30898238675894
+468,2014,Chocó,"Boys, girls and adolescents or minors (<18 years)",8.883282550568085,128.600353878988
+469,2014,Chocó,Adults or of legal age (> 18 years),1.4817009927396652,21.74574870612795
+470,2014,Huila,"Boys, girls and adolescents or minors (<18 years)",32.709920726545064,192.89212608313449
+471,2014,Huila,Adults or of legal age (> 18 years),2.469000329200044,20.59308072487644
+472,2014,La Guajira,"Boys, girls and adolescents or minors (<18 years)",15.41920337431857,99.03645779602616
+473,2014,La Guajira,Adults or of legal age (> 18 years),0.0,14.14124566244484
+474,2014,Magdalena,"Boys, girls and adolescents or minors (<18 years)",15.748527512677565,161.5061793668627
+475,2014,Magdalena,Adults or of legal age (> 18 years),0.0,12.530225837325677
+476,2014,Antioquia,"Boys, girls and adolescents or minors (<18 years)",38.58151370875061,206.17715342372196
+477,2014,Antioquia,Adults or of legal age (> 18 years),1.5407198243019138,21.111548789561628
+478,2014,Meta,"Boys, girls and adolescents or minors (<18 years)",78.26139305279634,373.2794639832369
+479,2014,Meta,Adults or of legal age (> 18 years),3.2698866330304326,21.171285321562955
+480,2014,Nariño,"Boys, girls and adolescents or minors (<18 years)",10.231934858881814,77.8578459786594
+481,2014,Nariño,Adults or of legal age (> 18 years),0.5340406404927415,13.058977164437229
+482,2014,Norte de Santander,"Boys, girls and adolescents or minors (<18 years)",29.737970781396598,103.36931632319266
+483,2014,Norte de Santander,Adults or of legal age (> 18 years),0.7016985783586802,11.817774378619193
+484,2014,Quindio,"Boys, girls and adolescents or minors (<18 years)",76.57418860811686,387.0808678500986
+485,2014,Quindio,Adults or of legal age (> 18 years),3.1406541982694995,14.141788497361825
+486,2014,Risaralda,"Boys, girls and adolescents or minors (<18 years)",66.14454694503671,284.78945398228143
+487,2014,Risaralda,Adults or of legal age (> 18 years),2.8229360416790823,15.452368075407556
+488,2014,Santander,"Boys, girls and adolescents or minors (<18 years)",55.92576092211152,269.8319863887707
+489,2014,Santander,Adults or of legal age (> 18 years),2.008282731780931,18.737525288870184
+490,2014,Sucre,"Boys, girls and adolescents or minors (<18 years)",38.16892661215195,215.27796582631538
+491,2014,Sucre,Adults or of legal age (> 18 years),1.099811565618424,18.27430855983531
+492,2014,Tolima,"Boys, girls and adolescents or minors (<18 years)",29.528705228660314,151.07470049330513
+493,2014,Tolima,Adults or of legal age (> 18 years),0.8636771920127133,12.878925433133041
+494,2014,Valle del Cauca,"Boys, girls and adolescents or minors (<18 years)",38.317520575325,201.87947162257345
+495,2014,Valle del Cauca,Adults or of legal age (> 18 years),1.7562951798804027,13.245801637673404
+496,2014,Atlántico,"Boys, girls and adolescents or minors (<18 years)",31.105369438974524,190.88228575629557
+497,2014,Atlántico,Adults or of legal age (> 18 years),1.61980044058572,13.177602311727947
+498,2014,Arauca,"Boys, girls and adolescents or minors (<18 years)",36.43935450286309,188.11473207087445
+499,2014,Arauca,Adults or of legal age (> 18 years),1.371553970648745,12.313585989875495
+500,2014,Casanare,"Boys, girls and adolescents or minors (<18 years)",55.55722394065888,363.3217993079585
+501,2014,Casanare,Adults or of legal age (> 18 years),4.496685942460407,31.23048094940662
+502,2014,Putumayo,"Boys, girls and adolescents or minors (<18 years)",19.736656610370204,191.52046783625732
+503,2014,Putumayo,Adults or of legal age (> 18 years),2.9467232437529467,25.02702919152685
+504,2014,"Archipiélago de San Andrés, Providencia y Santa Catalina","Boys, girls and adolescents or minors (<18 years)",16.943409013893596,70.77140835102618
+505,2014,"Archipiélago de San Andrés, Providencia y Santa Catalina",Adults or of legal age (> 18 years),0.0,26.143790849673206
+506,2014,Amazonas,"Boys, girls and adolescents or minors (<18 years)",28.861694758716233,229.871507721325
+507,2014,Amazonas,Adults or of legal age (> 18 years),9.658569565847298,24.520621842969938
+508,2014,Guaviare,"Boys, girls and adolescents or minors (<18 years)",36.883734273185524,143.6478093709071
+509,2014,Guaviare,Adults or of legal age (> 18 years),0.0,3.5011553812758214
+510,2014,Vichada,"Boys, girls and adolescents or minors (<18 years)",0.0,43.64633994263624
+511,2014,Vichada,Adults or of legal age (> 18 years),10.573618821041501,10.783996549121104
+512,2015,Bogotá D.C.,"Boys, girls and adolescents or minors (<18 years)",59.793751776383885,304.6260280192287
+513,2015,Bogotá D.C.,Adults or of legal age (> 18 years),1.2633924241788042,18.26316622647326
+514,2015,Bolívar,"Boys, girls and adolescents or minors (<18 years)",26.87857272117606,182.72107447755357
+515,2015,Bolívar,Adults or of legal age (> 18 years),0.7428669911509683,19.19525353730714
+516,2015,Boyacá,"Boys, girls and adolescents or minors (<18 years)",34.53054786913855,187.83427085701857
+517,2015,Boyacá,Adults or of legal age (> 18 years),2.586403511865714,17.03118778725745
+518,2015,Caldas,"Boys, girls and adolescents or minors (<18 years)",66.727777627996,255.58969711558885
+519,2015,Caldas,Adults or of legal age (> 18 years),1.4925640459232106,14.034469758469529
+520,2015,Caquetá,"Boys, girls and adolescents or minors (<18 years)",20.858754940917578,127.44769784094959
+521,2015,Caquetá,Adults or of legal age (> 18 years),2.0874211998497056,15.125056718962696
+522,2015,Cauca,"Boys, girls and adolescents or minors (<18 years)",26.48436594772648,122.32600962182676
+523,2015,Cauca,Adults or of legal age (> 18 years),1.09427627849769,14.023528364255585
+524,2015,Cesar,"Boys, girls and adolescents or minors (<18 years)",37.384668298299744,243.14142900374625
+525,2015,Cesar,Adults or of legal age (> 18 years),1.2772697082715987,21.951046075554885
+526,2015,Córdoba,"Boys, girls and adolescents or minors (<18 years)",14.41197572522002,123.77899228182315
+527,2015,Córdoba,Adults or of legal age (> 18 years),0.18593892650020175,10.598040093482023
+528,2015,Cundinamarca,"Boys, girls and adolescents or minors (<18 years)",47.70194198901273,244.811320754717
+529,2015,Cundinamarca,Adults or of legal age (> 18 years),2.3492928628482828,16.090017122822278
+530,2015,Chocó,"Boys, girls and adolescents or minors (<18 years)",9.771437200749736,101.1490901138155
+531,2015,Chocó,Adults or of legal age (> 18 years),0.0,21.410525414293666
+532,2015,Huila,"Boys, girls and adolescents or minors (<18 years)",27.482461850003613,190.36971006390985
+533,2015,Huila,Adults or of legal age (> 18 years),0.8063540700721686,15.925003848542596
+534,2015,La Guajira,"Boys, girls and adolescents or minors (<18 years)",21.847629774920865,113.82867273752922
+535,2015,La Guajira,Adults or of legal age (> 18 years),1.1184723159460597,14.383037837913687
+536,2015,Magdalena,"Boys, girls and adolescents or minors (<18 years)",19.308518603166597,159.13167836387836
+537,2015,Magdalena,Adults or of legal age (> 18 years),0.7835168939300946,17.575107352428116
+538,2015,Antioquia,"Boys, girls and adolescents or minors (<18 years)",41.284163415453214,198.1066465156126
+539,2015,Antioquia,Adults or of legal age (> 18 years),1.4212764162561011,18.30362508777516
+540,2015,Meta,"Boys, girls and adolescents or minors (<18 years)",62.5901596347119,342.48491139523753
+541,2015,Meta,Adults or of legal age (> 18 years),1.9174965165479951,20.95157684068984
+542,2015,Nariño,"Boys, girls and adolescents or minors (<18 years)",8.266293691495306,65.21477972850057
+543,2015,Nariño,Adults or of legal age (> 18 years),1.2216063774833512,11.776237630620988
+544,2015,Norte de Santander,"Boys, girls and adolescents or minors (<18 years)",29.12387778101376,133.02718057012902
+545,2015,Norte de Santander,Adults or of legal age (> 18 years),1.1492905429478384,7.455420968152196
+546,2015,Quindio,"Boys, girls and adolescents or minors (<18 years)",83.02889405513119,345.39310207732825
+547,2015,Quindio,Adults or of legal age (> 18 years),1.5526262673311908,26.532492655323626
+548,2015,Risaralda,"Boys, girls and adolescents or minors (<18 years)",41.88466808175319,269.45598022015446
+549,2015,Risaralda,Adults or of legal age (> 18 years),0.9300076260625336,14.430218575369597
+550,2015,Santander,"Boys, girls and adolescents or minors (<18 years)",62.65143427033454,321.04401496636603
+551,2015,Santander,Adults or of legal age (> 18 years),2.2666678000005667,17.318039758997326
+552,2015,Sucre,"Boys, girls and adolescents or minors (<18 years)",30.52879774996265,239.85540727855843
+553,2015,Sucre,Adults or of legal age (> 18 years),1.0807695078896173,23.45955060298376
+554,2015,Tolima,"Boys, girls and adolescents or minors (<18 years)",28.967497628023743,203.07139937078972
+555,2015,Tolima,Adults or of legal age (> 18 years),0.856811760598226,12.9657474230577
+556,2015,Valle del Cauca,"Boys, girls and adolescents or minors (<18 years)",42.2010523515942,215.32599859758858
+557,2015,Valle del Cauca,Adults or of legal age (> 18 years),1.3440997859681103,14.073726717066759
+558,2015,Atlántico,"Boys, girls and adolescents or minors (<18 years)",26.36045028670128,185.03381335239743
+559,2015,Atlántico,Adults or of legal age (> 18 years),0.7339647060838335,11.56617587527036
+560,2015,Arauca,"Boys, girls and adolescents or minors (<18 years)",53.600760784991785,275.03437929741216
+561,2015,Arauca,Adults or of legal age (> 18 years),1.3503659491722257,20.152351779452662
+562,2015,Casanare,"Boys, girls and adolescents or minors (<18 years)",56.70964660936008,376.8333489695719
+563,2015,Casanare,Adults or of legal age (> 18 years),4.392630922364641,17.90670606142
+564,2015,Putumayo,"Boys, girls and adolescents or minors (<18 years)",40.99055803697631,213.9758471098605
+565,2015,Putumayo,Adults or of legal age (> 18 years),2.8861139437785006,27.376366374000273
+566,2015,"Archipiélago de San Andrés, Providencia y Santa Catalina","Boys, girls and adolescents or minors (<18 years)",8.515711487694798,168.90390256911726
+567,2015,"Archipiélago de San Andrés, Providencia y Santa Catalina",Adults or of legal age (> 18 years),0.0,11.048909840895698
+568,2015,Amazonas,"Boys, girls and adolescents or minors (<18 years)",51.81347150259067,346.8344012697666
+569,2015,Amazonas,Adults or of legal age (> 18 years),4.745634016704632,24.05002405002405
+570,2015,Guainía,"Boys, girls and adolescents or minors (<18 years)",10.785159620362382,258.3979328165375
+571,2015,Guainía,Adults or of legal age (> 18 years),0.0,44.61099214846538
+572,2015,Guaviare,"Boys, girls and adolescents or minors (<18 years)",8.152949329419917,134.34653008102777
+573,2015,Guaviare,Adults or of legal age (> 18 years),0.0,23.92426262004853
+574,2015,Vaupés,Adults or of legal age (> 18 years),0.0,8.298066550493735
+575,2015,Vichada,"Boys, girls and adolescents or minors (<18 years)",11.737778038617291,116.77934849416104
+576,2015,Vichada,Adults or of legal age (> 18 years),5.137954066690644,15.623372565357776
+577,2016,Bogotá D.C.,"Boys, girls and adolescents or minors (<18 years)",54.06463270454527,279.11205252330234
+578,2016,Bogotá D.C.,Adults or of legal age (> 18 years),1.7866303895619946,18.97475996437071
+579,2016,Bolívar,"Boys, girls and adolescents or minors (<18 years)",31.187691257850233,191.97270709298868
+580,2016,Bolívar,Adults or of legal age (> 18 years),0.7287758606114138,18.693482538717625
+581,2016,Boyacá,"Boys, girls and adolescents or minors (<18 years)",27.959435124632737,190.87132761054212
+582,2016,Boyacá,Adults or of legal age (> 18 years),2.7927110242267683,15.057835778330405
+583,2016,Caldas,"Boys, girls and adolescents or minors (<18 years)",50.27515456213058,219.7661060728225
+584,2016,Caldas,Adults or of legal age (> 18 years),2.6703220408381254,14.224867804473721
+585,2016,Caquetá,"Boys, girls and adolescents or minors (<18 years)",20.826391202932356,193.05852153842835
+586,2016,Caquetá,Adults or of legal age (> 18 years),2.7316060477757897,12.108003390240949
+587,2016,Cauca,"Boys, girls and adolescents or minors (<18 years)",19.193777877919228,126.45973783588143
+588,2016,Cauca,Adults or of legal age (> 18 years),1.9344064273877561,16.390075044690274
+589,2016,Cesar,"Boys, girls and adolescents or minors (<18 years)",34.9566537493508,214.4665536794091
+590,2016,Cesar,Adults or of legal age (> 18 years),2.5024477066630797,22.114711736247223
+591,2016,Córdoba,"Boys, girls and adolescents or minors (<18 years)",14.665913608407624,136.53945794812805
+592,2016,Córdoba,Adults or of legal age (> 18 years),0.7279556820580764,10.726851454561057
+593,2016,Cundinamarca,"Boys, girls and adolescents or minors (<18 years)",46.6282377904973,249.1745067002344
+594,2016,Cundinamarca,Adults or of legal age (> 18 years),1.6434700006464316,18.74490106739431
+595,2016,Chocó,"Boys, girls and adolescents or minors (<18 years)",11.560179627406518,104.91264881631163
+596,2016,Chocó,Adults or of legal age (> 18 years),0.7119667369140513,21.054109060284933
+597,2016,Huila,"Boys, girls and adolescents or minors (<18 years)",27.985389696551525,188.0229861881238
+598,2016,Huila,Adults or of legal age (> 18 years),2.1098381754119457,15.362102993787461
+599,2016,La Guajira,"Boys, girls and adolescents or minors (<18 years)",15.183146707155057,124.08475185511627
+600,2016,La Guajira,Adults or of legal age (> 18 years),0.36085189916354526,11.545657983652706
+601,2016,Magdalena,"Boys, girls and adolescents or minors (<18 years)",23.30136964660906,160.40320474826646
+602,2016,Magdalena,Adults or of legal age (> 18 years),1.282100593612575,12.62932167655534
+603,2016,Antioquia,"Boys, girls and adolescents or minors (<18 years)",34.71966177518865,157.972292110394
+604,2016,Antioquia,Adults or of legal age (> 18 years),1.082455604661956,13.574987483612459
+605,2016,Meta,"Boys, girls and adolescents or minors (<18 years)",84.41508609748466,378.74355674071154
+606,2016,Meta,Adults or of legal age (> 18 years),1.249863296201978,19.51844340413852
+607,2016,Nariño,"Boys, girls and adolescents or minors (<18 years)",2.3180726881364353,36.42549097094552
+608,2016,Nariño,Adults or of legal age (> 18 years),0.5133768905103993,14.102215577001495
+609,2016,Norte de Santander,"Boys, girls and adolescents or minors (<18 years)",25.944529744765372,122.96314644114578
+610,2016,Norte de Santander,Adults or of legal age (> 18 years),0.9037566906237503,6.682330624474575
+611,2016,Quindio,"Boys, girls and adolescents or minors (<18 years)",71.55549725107632,365.004562557032
+612,2016,Quindio,Adults or of legal age (> 18 years),3.072810238603715,20.05778552496478
+613,2016,Risaralda,"Boys, girls and adolescents or minors (<18 years)",65.79041462263476,291.59954656643396
+614,2016,Risaralda,Adults or of legal age (> 18 years),0.30663371376356086,15.677228266042565
+615,2016,Santander,"Boys, girls and adolescents or minors (<18 years)",53.95224418721106,329.4316029958218
+616,2016,Santander,Adults or of legal age (> 18 years),2.520126006300315,19.254006825213455
+617,2016,Sucre,"Boys, girls and adolescents or minors (<18 years)",35.19061583577712,208.79105882995128
+618,2016,Sucre,Adults or of legal age (> 18 years),3.1880751818974007,12.607932911387845
+619,2016,Tolima,"Boys, girls and adolescents or minors (<18 years)",32.64427071851312,199.213018839988
+620,2016,Tolima,Adults or of legal age (> 18 years),2.762483770407849,16.981585334537233
+621,2016,Valle del Cauca,"Boys, girls and adolescents or minors (<18 years)",39.744503870995594,209.4341703967597
+622,2016,Valle del Cauca,Adults or of legal age (> 18 years),1.3242803009521575,13.355733076297039
+623,2016,Atlántico,"Boys, girls and adolescents or minors (<18 years)",29.15525171538442,203.95971335107126
+624,2016,Atlántico,Adults or of legal age (> 18 years),1.0812096573646595,16.149834066141533
+625,2016,Arauca,"Boys, girls and adolescents or minors (<18 years)",48.32251829352479,313.7422678574612
+626,2016,Arauca,Adults or of legal age (> 18 years),1.3280741596610754,25.048779201603125
+627,2016,Casanare,"Boys, girls and adolescents or minors (<18 years)",50.416679023695835,312.0924166200857
+628,2016,Casanare,Adults or of legal age (> 18 years),0.8588409083101446,20.971138470679726
+629,2016,Putumayo,"Boys, girls and adolescents or minors (<18 years)",28.314975790695698,236.41009074623358
+630,2016,Putumayo,Adults or of legal age (> 18 years),0.0,21.966687041564793
+631,2016,"Archipiélago de San Andrés, Providencia y Santa Catalina","Boys, girls and adolescents or minors (<18 years)",25.662959794696324,116.20631089657638
+632,2016,"Archipiélago de San Andrés, Providencia y Santa Catalina",Adults or of legal age (> 18 years),0.0,25.410193117467692
+633,2016,Amazonas,"Boys, girls and adolescents or minors (<18 years)",28.788576692768306,299.0325417766051
+634,2016,Amazonas,Adults or of legal age (> 18 years),14.010180731331435,32.93807641633729
+635,2016,Guainía,"Boys, girls and adolescents or minors (<18 years)",21.503064186646597,291.38182225708846
+636,2016,Guainía,Adults or of legal age (> 18 years),16.118633139909736,60.9172395788008
+637,2016,Guaviare,"Boys, girls and adolescents or minors (<18 years)",40.51863857374392,188.11922578487523
+638,2016,Guaviare,Adults or of legal age (> 18 years),2.9358229111619987,3.3380065424928236
+639,2016,Vichada,"Boys, girls and adolescents or minors (<18 years)",0.0,66.63032285420074
+640,2016,Vichada,Adults or of legal age (> 18 years),0.0,5.036261079774375
+641,2017,Bogotá D.C.,"Boys, girls and adolescents or minors (<18 years)",49.915839572813276,279.4493160524877
+642,2017,Bogotá D.C.,Adults or of legal age (> 18 years),1.9333876352700028,17.862664484025327
+643,2017,Bolívar,"Boys, girls and adolescents or minors (<18 years)",30.150297900952268,205.63249382963392
+644,2017,Bolívar,Adults or of legal age (> 18 years),0.8586098534066777,16.813221917716092
+645,2017,Boyacá,"Boys, girls and adolescents or minors (<18 years)",32.21339692674577,222.26413747750595
+646,2017,Boyacá,Adults or of legal age (> 18 years),1.382854903949203,14.934863628855062
+647,2017,Caldas,"Boys, girls and adolescents or minors (<18 years)",55.44717116747099,255.85740980307602
+648,2017,Caldas,Adults or of legal age (> 18 years),1.769796650364873,16.59353722528855
+649,2017,Caquetá,"Boys, girls and adolescents or minors (<18 years)",24.953472171679888,208.95265175994143
+650,2017,Caquetá,Adults or of legal age (> 18 years),0.0,10.533106871535596
+651,2017,Cauca,"Boys, girls and adolescents or minors (<18 years)",17.662123575991284,123.11805262417334
+652,2017,Cauca,Adults or of legal age (> 18 years),1.9013334685392687,17.39571163493918
+653,2017,Cesar,"Boys, girls and adolescents or minors (<18 years)",35.5072789921934,258.3600165601958
+654,2017,Cesar,Adults or of legal age (> 18 years),2.4532803424779357,19.310582496293854
+655,2017,Córdoba,"Boys, girls and adolescents or minors (<18 years)",27.945971122496506,158.14478025005025
+656,2017,Córdoba,Adults or of legal age (> 18 years),0.8916406902012255,9.629896802524083
+657,2017,Cundinamarca,"Boys, girls and adolescents or minors (<18 years)",40.36996833200262,263.5895854072319
+658,2017,Cundinamarca,Adults or of legal age (> 18 years),2.1477732423966143,17.33187300122263
+659,2017,Chocó,"Boys, girls and adolescents or minors (<18 years)",12.452081721233467,125.00228106352306
+660,2017,Chocó,Adults or of legal age (> 18 years),0.6982752601075344,28.313352853433514
+661,2017,Huila,"Boys, girls and adolescents or minors (<18 years)",36.162877600713614,229.2584120201949
+662,2017,Huila,Adults or of legal age (> 18 years),2.0725012758835977,23.013429614704044
+663,2017,La Guajira,"Boys, girls and adolescents or minors (<18 years)",16.722796423179652,118.62396204033216
+664,2017,La Guajira,Adults or of legal age (> 18 years),0.6988193447171005,10.85255002038964
+665,2017,Magdalena,"Boys, girls and adolescents or minors (<18 years)",19.790850294092035,147.94620742390745
+666,2017,Magdalena,Adults or of legal age (> 18 years),1.5105588060543196,18.232002228355828
+667,2017,Antioquia,"Boys, girls and adolescents or minors (<18 years)",45.90745261585766,221.2268793864641
+668,2017,Antioquia,Adults or of legal age (> 18 years),1.243452997920769,15.580273165944224
+669,2017,Meta,"Boys, girls and adolescents or minors (<18 years)",73.04644585213062,435.46144275572686
+670,2017,Meta,Adults or of legal age (> 18 years),3.3625981267271525,24.408684729093366
+671,2017,Nariño,"Boys, girls and adolescents or minors (<18 years)",3.315111271709835,34.74874250837754
+672,2017,Nariño,Adults or of legal age (> 18 years),1.5112030519585191,12.006283288254187
+673,2017,Norte de Santander,"Boys, girls and adolescents or minors (<18 years)",33.412867380902405,163.97971642203387
+674,2017,Norte de Santander,Adults or of legal age (> 18 years),1.3334459354345478,10.599732886731253
+675,2017,Quindio,"Boys, girls and adolescents or minors (<18 years)",94.57340212850012,438.1009766262459
+676,2017,Quindio,Adults or of legal age (> 18 years),3.0429975554586304,20.34405102098749
+677,2017,Risaralda,"Boys, girls and adolescents or minors (<18 years)",62.565172054223154,350.47956411449496
+678,2017,Risaralda,Adults or of legal age (> 18 years),3.0355738904218534,15.7981823775433
+679,2017,Santander,"Boys, girls and adolescents or minors (<18 years)",54.14485379258607,329.64202935874323
+680,2017,Santander,Adults or of legal age (> 18 years),2.3541239404711294,17.082987840854887
+681,2017,Sucre,"Boys, girls and adolescents or minors (<18 years)",31.985378112862694,212.1587494952675
+682,2017,Sucre,Adults or of legal age (> 18 years),1.3946126114818456,16.648483216912027
+683,2017,Tolima,"Boys, girls and adolescents or minors (<18 years)",40.630934254871434,267.9169457468185
+684,2017,Tolima,Adults or of legal age (> 18 years),1.8986620761236916,16.41598095746209
+685,2017,Valle del Cauca,"Boys, girls and adolescents or minors (<18 years)",42.12751388123912,249.2719860221316
+686,2017,Valle del Cauca,Adults or of legal age (> 18 years),1.1192303674557655,14.234723871575891
+687,2017,Atlántico,"Boys, girls and adolescents or minors (<18 years)",44.285865260254944,233.75630838966413
+688,2017,Atlántico,Adults or of legal age (> 18 years),1.416462361644088,14.320188220973929
+689,2017,Arauca,"Boys, girls and adolescents or minors (<18 years)",39.64286945430728,341.84990652541615
+690,2017,Arauca,Adults or of legal age (> 18 years),3.91967283797379,36.235635158919145
+691,2017,Casanare,"Boys, girls and adolescents or minors (<18 years)",63.347083087802005,509.93683561854874
+692,2017,Casanare,Adults or of legal age (> 18 years),5.040746030412501,29.017914294736663
+693,2017,Putumayo,"Boys, girls and adolescents or minors (<18 years)",22.66192654703058,210.07477486741783
+694,2017,Putumayo,Adults or of legal age (> 18 years),0.9235571728067826,26.13329848893535
+695,2017,"Archipiélago de San Andrés, Providencia y Santa Catalina","Boys, girls and adolescents or minors (<18 years)",8.58074480864939,98.65470852017937
+696,2017,"Archipiélago de San Andrés, Providencia y Santa Catalina",Adults or of legal age (> 18 years),0.0,46.56327232350729
+697,2017,Amazonas,"Boys, girls and adolescents or minors (<18 years)",68.96948100465544,509.5466791612979
+698,2017,Amazonas,Adults or of legal age (> 18 years),4.590525156077855,23.051034991471116
+699,2017,Guainía,"Boys, girls and adolescents or minors (<18 years)",0.0,356.6254318511089
+700,2017,Guainía,Adults or of legal age (> 18 years),7.882084023015685,33.90117806593779
+701,2017,Guaviare,"Boys, girls and adolescents or minors (<18 years)",40.27386226339106,157.82041697815433
+702,2017,Guaviare,Adults or of legal age (> 18 years),0.0,6.5265631118652925
+703,2017,Vaupés,"Boys, girls and adolescents or minors (<18 years)",0.0,72.76507276507277
+704,2017,Vaupés,Adults or of legal age (> 18 years),0.0,15.973165082661131
+705,2017,Vichada,"Boys, girls and adolescents or minors (<18 years)",5.683755825849722,11.940298507462687
+706,2017,Vichada,Adults or of legal age (> 18 years),0.0,4.869260359351415
+707,2017,Sin información,"Boys, girls and adolescents or minors (<18 years)",0.0,0.0
+708,2017,Sin información,Adults or of legal age (> 18 years),0.0,0.0
+709,2018,Bogotá D.C.,"Boys, girls and adolescents or minors (<18 years)",53.779456069408496,283.1046802764467
+710,2018,Bogotá D.C.,Adults or of legal age (> 18 years),1.8293066892468781,15.710275853401226
+711,2018,Bolívar,"Boys, girls and adolescents or minors (<18 years)",35.49174750156777,239.84289037146397
+712,2018,Bolívar,Adults or of legal age (> 18 years),1.8280404531290428,16.10647342569547
+713,2018,Boyacá,"Boys, girls and adolescents or minors (<18 years)",38.9848348992242,238.68937832266465
+714,2018,Boyacá,Adults or of legal age (> 18 years),1.5982246007863263,22.007042253521128
+715,2018,Caldas,"Boys, girls and adolescents or minors (<18 years)",58.581500651288444,278.58982893860895
+716,2018,Caldas,Adults or of legal age (> 18 years),2.3466672924446113,14.337344182825486
+717,2018,Caquetá,"Boys, girls and adolescents or minors (<18 years)",35.304134737191866,272.1454310762115
+718,2018,Caquetá,Adults or of legal age (> 18 years),1.316993829883907,29.0118561785583
+719,2018,Cauca,"Boys, girls and adolescents or minors (<18 years)",18.224045568590224,148.51068168619472
+720,2018,Cauca,Adults or of legal age (> 18 years),0.8314072398942449,15.212467462222374
+721,2018,Cesar,"Boys, girls and adolescents or minors (<18 years)",38.54934315924383,265.49972715443056
+722,2018,Cesar,Adults or of legal age (> 18 years),2.1060929268373405,22.158984885239782
+723,2018,Córdoba,"Boys, girls and adolescents or minors (<18 years)",22.547705384886243,169.16984330039088
+724,2018,Córdoba,Adults or of legal age (> 18 years),0.5246965941944071,11.327535694609638
+725,2018,Cundinamarca,"Boys, girls and adolescents or minors (<18 years)",55.131713457941416,276.57309664254205
+726,2018,Cundinamarca,Adults or of legal age (> 18 years),2.106502668412255,20.583443333575694
+727,2018,Chocó,"Boys, girls and adolescents or minors (<18 years)",16.890690562548894,169.56105565431423
+728,2018,Chocó,Adults or of legal age (> 18 years),2.0560760473994066,26.52105023358925
+729,2018,Huila,"Boys, girls and adolescents or minors (<18 years)",45.717475625366944,302.347342261216
+730,2018,Huila,Adults or of legal age (> 18 years),1.5281913091760246,23.876305656925133
+731,2018,La Guajira,"Boys, girls and adolescents or minors (<18 years)",18.222238419767486,135.78856726501954
+732,2018,La Guajira,Adults or of legal age (> 18 years),1.01542085809832,11.789334157524623
+733,2018,Magdalena,"Boys, girls and adolescents or minors (<18 years)",23.005009539146197,171.22716971070525
+734,2018,Magdalena,Adults or of legal age (> 18 years),0.9887553794472362,14.925707291954298
+735,2018,Antioquia,"Boys, girls and adolescents or minors (<18 years)",46.19819329527144,256.26399448308746
+736,2018,Antioquia,Adults or of legal age (> 18 years),2.2752800016452026,15.59820947065239
+737,2018,Meta,"Boys, girls and adolescents or minors (<18 years)",61.88870444384034,422.0581220526878
+738,2018,Meta,Adults or of legal age (> 18 years),2.094598031676307,21.22093023255814
+739,2018,Nariño,"Boys, girls and adolescents or minors (<18 years)",6.63455541844141,22.73580648383863
+740,2018,Nariño,Adults or of legal age (> 18 years),0.6594446486891065,11.624061479824887
+741,2018,Norte de Santander,"Boys, girls and adolescents or minors (<18 years)",37.51762681604719,179.98204667863553
+742,2018,Norte de Santander,Adults or of legal age (> 18 years),1.0936659244320592,17.105784675720216
+743,2018,Quindio,"Boys, girls and adolescents or minors (<18 years)",111.63393671676191,496.12168832477084
+744,2018,Quindio,Adults or of legal age (> 18 years),4.019736908219357,17.349063150589867
+745,2018,Risaralda,"Boys, girls and adolescents or minors (<18 years)",81.61732309625788,398.42441255036897
+746,2018,Risaralda,Adults or of legal age (> 18 years),1.202776007024212,21.689591741482033
+747,2018,Santander,"Boys, girls and adolescents or minors (<18 years)",67.42866540580545,343.61523407055887
+748,2018,Santander,Adults or of legal age (> 18 years),1.9187360463347343,19.128868716101564
+749,2018,Sucre,"Boys, girls and adolescents or minors (<18 years)",32.65668678318573,263.41242565801656
+750,2018,Sucre,Adults or of legal age (> 18 years),1.7169799010332785,19.166367555173
+751,2018,Tolima,"Boys, girls and adolescents or minors (<18 years)",54.320178653032016,394.0832774592575
+752,2018,Tolima,Adults or of legal age (> 18 years),1.886045151920937,22.174437552511712
+753,2018,Valle del Cauca,"Boys, girls and adolescents or minors (<18 years)",49.19460553654818,260.25681565943097
+754,2018,Valle del Cauca,Adults or of legal age (> 18 years),1.7179220995953066,12.719360581153115
+755,2018,Atlántico,"Boys, girls and adolescents or minors (<18 years)",40.81817769513356,249.17645071374272
+756,2018,Atlántico,Adults or of legal age (> 18 years),1.5083901300232292,12.880525965819267
+757,2018,Arauca,"Boys, girls and adolescents or minors (<18 years)",41.362194953812214,380.9320374523835
+758,2018,Arauca,Adults or of legal age (> 18 years),5.141388174807198,33.03433029248088
+759,2018,Casanare,"Boys, girls and adolescents or minors (<18 years)",83.38087506034142,577.5401069518716
+760,2018,Casanare,Adults or of legal age (> 18 years),2.4672472921960966,50.064666861362596
+761,2018,Putumayo,"Boys, girls and adolescents or minors (<18 years)",28.306960681631615,267.20695325346486
+762,2018,Putumayo,Adults or of legal age (> 18 years),0.9049937555430868,26.45213076474022
+763,2018,"Archipiélago de San Andrés, Providencia y Santa Catalina","Boys, girls and adolescents or minors (<18 years)",17.179178835251676,161.7395992452152
+764,2018,"Archipiélago de San Andrés, Providencia y Santa Catalina",Adults or of legal age (> 18 years),0.0,24.75947934352009
+765,2018,Amazonas,"Boys, girls and adolescents or minors (<18 years)",80.31206975676916,513.6586504786364
+766,2018,Amazonas,Adults or of legal age (> 18 years),4.5160998961297025,36.16146092302129
+767,2018,Guainía,"Boys, girls and adolescents or minors (<18 years)",32.027329988256646,399.4230555863752
+768,2018,Guainía,Adults or of legal age (> 18 years),0.0,41.33256179217988
+769,2018,Guaviare,"Boys, girls and adolescents or minors (<18 years)",27.98656644810491,74.36480066102045
+770,2018,Guaviare,Adults or of legal age (> 18 years),0.0,12.762020227802061
+771,2018,Vaupés,Adults or of legal age (> 18 years),0.0,7.825338445887785
+772,2018,Vichada,"Boys, girls and adolescents or minors (<18 years)",5.590339892665474,52.891396332863195
+773,2018,Sin información,"Boys, girls and adolescents or minors (<18 years)",0.0,0.0
+774,2019,Bogotá D.C.,"Boys, girls and adolescents or minors (<18 years)",65.31584798979702,367.4081193647307
+775,2019,Bogotá D.C.,Adults or of legal age (> 18 years),2.3089144254009906,18.82987708400718
+776,2019,Bolívar,"Boys, girls and adolescents or minors (<18 years)",36.369536875912736,236.68848086620918
+777,2019,Bolívar,Adults or of legal age (> 18 years),1.2868080725759754,17.57545866497361
+778,2019,Boyacá,"Boys, girls and adolescents or minors (<18 years)",45.85027090800311,288.399087133468
+779,2019,Boyacá,Adults or of legal age (> 18 years),1.872343612499766,24.29032851028072
+780,2019,Caldas,"Boys, girls and adolescents or minors (<18 years)",64.12597913876375,359.7702222259934
+781,2019,Caldas,Adults or of legal age (> 18 years),1.6436644952032389,13.672816948326696
+782,2019,Caquetá,"Boys, girls and adolescents or minors (<18 years)",40.95545103841886,402.386374750255
+783,2019,Caquetá,Adults or of legal age (> 18 years),5.392289026691831,30.992856146658195
+784,2019,Cauca,"Boys, girls and adolescents or minors (<18 years)",14.537573018264478,136.43630216276804
+785,2019,Cauca,Adults or of legal age (> 18 years),1.3869872852894147,13.987758820794125
+786,2019,Cesar,"Boys, girls and adolescents or minors (<18 years)",34.19792707949703,224.09834716035382
+787,2019,Cesar,Adults or of legal age (> 18 years),2.556256822010394,20.025913048933198
+788,2019,Córdoba,"Boys, girls and adolescents or minors (<18 years)",25.143738371021,182.43255072920496
+789,2019,Córdoba,Adults or of legal age (> 18 years),0.6649113008324689,9.470532998386798
+790,2019,Cundinamarca,"Boys, girls and adolescents or minors (<18 years)",58.58190597146421,309.78176102892655
+791,2019,Cundinamarca,Adults or of legal age (> 18 years),2.1144370081635655,20.541563011900124
+792,2019,Chocó,"Boys, girls and adolescents or minors (<18 years)",18.209960848584174,160.33851350069259
+793,2019,Chocó,Adults or of legal age (> 18 years),2.551752735159963,26.19889726459695
+794,2019,Huila,"Boys, girls and adolescents or minors (<18 years)",54.28939440712787,335.95818189976217
+795,2019,Huila,Adults or of legal age (> 18 years),1.6363666115756574,28.7598944591029
+796,2019,La Guajira,"Boys, girls and adolescents or minors (<18 years)",18.89823301521308,157.0951964499725
+797,2019,La Guajira,Adults or of legal age (> 18 years),0.7592034437468208,18.034265103697024
+798,2019,Magdalena,"Boys, girls and adolescents or minors (<18 years)",25.47255635297685,162.60856575830647
+799,2019,Magdalena,Adults or of legal age (> 18 years),0.22345270176661708,15.227984684998258
+800,2019,Antioquia,"Boys, girls and adolescents or minors (<18 years)",45.613918761496365,239.32211563137471
+801,2019,Antioquia,Adults or of legal age (> 18 years),1.4408781497378038,13.739391227202425
+802,2019,Meta,"Boys, girls and adolescents or minors (<18 years)",70.11866235167206,438.5937153887535
+803,2019,Meta,Adults or of legal age (> 18 years),2.470226904064621,25.6254115909523
+804,2019,Nariño,"Boys, girls and adolescents or minors (<18 years)",3.372041560412232,34.800229064798906
+805,2019,Nariño,Adults or of legal age (> 18 years),0.8935735974022028,11.566902135745858
+806,2019,Norte de Santander,"Boys, girls and adolescents or minors (<18 years)",36.97233169463292,150.01795086591557
+807,2019,Norte de Santander,Adults or of legal age (> 18 years),1.3317985940011987,6.432534329184945
+808,2019,Quindio,"Boys, girls and adolescents or minors (<18 years)",130.67573524781156,524.5447347585115
+809,2019,Quindio,Adults or of legal age (> 18 years),0.9983427510332846,19.69711213476406
+810,2019,Risaralda,"Boys, girls and adolescents or minors (<18 years)",87.20588975163092,511.2779317360649
+811,2019,Risaralda,Adults or of legal age (> 18 years),1.4888706915804362,20.605112154407927
+812,2019,Santander,"Boys, girls and adolescents or minors (<18 years)",54.308998807141634,340.9202810215384
+813,2019,Santander,Adults or of legal age (> 18 years),2.0358073057489925,17.338586020617583
+814,2019,Sucre,"Boys, girls and adolescents or minors (<18 years)",31.599244197669393,245.02650494464842
+815,2019,Sucre,Adults or of legal age (> 18 years),1.92637398624569,9.52018278750952
+816,2019,Tolima,"Boys, girls and adolescents or minors (<18 years)",90.40341193112324,509.61705757886995
+817,2019,Tolima,Adults or of legal age (> 18 years),3.5919540229885056,36.70731362970791
+818,2019,Valle del Cauca,"Boys, girls and adolescents or minors (<18 years)",39.704288685990456,262.6532276561584
+819,2019,Valle del Cauca,Adults or of legal age (> 18 years),1.603662765756989,16.89536710644426
+820,2019,Atlántico,"Boys, girls and adolescents or minors (<18 years)",45.70002113011729,268.27019076144535
+821,2019,Atlántico,Adults or of legal age (> 18 years),1.7089440434755367,12.502852213161129
+822,2019,Arauca,"Boys, girls and adolescents or minors (<18 years)",80.02881037173383,541.0260695187166
+823,2019,Arauca,Adults or of legal age (> 18 years),2.197729745173236,39.45119011090168
+824,2019,Casanare,"Boys, girls and adolescents or minors (<18 years)",56.746619423952616,501.70376277822083
+825,2019,Casanare,Adults or of legal age (> 18 years),1.3892554979786333,39.75311225023538
+826,2019,Putumayo,"Boys, girls and adolescents or minors (<18 years)",30.88075153997432,362.5029643934004
+827,2019,Putumayo,Adults or of legal age (> 18 years),2.5712228735986833,29.179039151404883
+828,2019,"Archipiélago de San Andrés, Providencia y Santa Catalina","Boys, girls and adolescents or minors (<18 years)",35.038542396636295,255.1020408163265
+829,2019,"Archipiélago de San Andrés, Providencia y Santa Catalina",Adults or of legal age (> 18 years),4.62877244954638,24.912805181863476
+830,2019,Amazonas,"Boys, girls and adolescents or minors (<18 years)",28.700993054359678,417.6391106743643
+831,2019,Amazonas,Adults or of legal age (> 18 years),4.34348260435217,38.046321396299994
+832,2019,Guainía,"Boys, girls and adolescents or minors (<18 years)",89.89131323036692,433.0129037845328
+833,2019,Guainía,Adults or of legal age (> 18 years),7.388798581350672,65.8165364047717
+834,2019,Guaviare,"Boys, girls and adolescents or minors (<18 years)",54.054054054054056,312.9990418396678
+835,2019,Guaviare,Adults or of legal age (> 18 years),3.521498749867944,29.14966269676022
+836,2019,Vaupés,"Boys, girls and adolescents or minors (<18 years)",0.0,35.21746786406057
+837,2019,Vaupés,Adults or of legal age (> 18 years),0.0,11.150758251561106
+838,2019,Vichada,"Boys, girls and adolescents or minors (<18 years)",3.8946876460507864,20.813387170628147
+839,2019,Vichada,Adults or of legal age (> 18 years),0.0,3.5635378804076687
